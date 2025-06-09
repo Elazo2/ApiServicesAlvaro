@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiServices</string>
+    <string name="boton_conectar">CONECTAR</string>
+</resources>
