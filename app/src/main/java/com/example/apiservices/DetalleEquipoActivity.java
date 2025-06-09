@@ -82,7 +82,7 @@ public class DetalleEquipoActivity extends AppCompatActivity {
             @Override
             public Map<String, String> getHeaders() throws AuthFailureError {
                 Map<String, String> headers = new HashMap<>();
-                headers.put("X-Auth-Token", "9bd2f202597d41c6ac7335c1e666deb3");  // ← Aquí tu API KEY
+                headers.put("X-Auth-Token", "9bd2f202597d41c6ac7335c1e666deb3");
                 return headers;
             }
         };
